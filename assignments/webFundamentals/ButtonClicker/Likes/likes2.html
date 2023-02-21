@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Likes 2</title>
+    <link rel="stylesheet" href="likes2styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Lora&family=Montserrat:wght@400;700&family=Open+Sans:wght@400;500;600&family=PT+Sans+Caption:wght@400;700&family=Roboto:wght@300;400;500;700&family=Varela+Round&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Network</h1>
+    </header>
+    <h2 id="yourfeed">Your Feed</h2>
+    <main>
+        <div id="mainprofile">
+            <img src="./images.jpg" alt="Photo of me" id="profilepic">
+            <a href="#">Add an avatar</a>
+            <h2>James Doe</h2>
+        </div>
+        <div id="otherprofileposts">
+            <div class="post">
+                <div class="row">
+                    <h1 class="name">Neil M</h1>
+                    <h3 id="increment1">9 like(s)</h3> 
+                    <button onclick="like1()">Like</button>           
+                </div>
+                <p class="status">I just set up this new discord bot, let me know what you all think.</p>
+            </div>
+            <div class="post">
+                <div class="row">
+                    <h1 class="name">Nichole K</h1>
+                    <h3 id="increment2">12 like(s)</h3> 
+                    <button onclick="like2()">Like</button>           
+                </div>
+                <p class="status">Just finished my next comic, check it out.</p>
+            </div>
+            <div class="post">
+                <div class="row">
+                    <h1 class="name">Jim R</h1>
+                    <h3 id="increment3">9 like(s)</h3> 
+                    <button onclick="like3()">Like</button>           
+                </div>
+                <p class="status">I can't stop listening to the new album. Who else is liking it?</p>
+            </div>
+        </div>
+    </main>
+    <script src="likes2.js"></script>
+</body>
+</html>

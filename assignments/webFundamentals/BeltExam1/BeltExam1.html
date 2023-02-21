@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EasyBay</title>
+    <link rel="stylesheet" href="BeltExam1.css">
+    <link href="https://fonts.googleapis.com/css2?family=Lora&family=Montserrat:wght@400;700&family=Roboto:wght@300;400;500;700&family=Varela+Round&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto:wght@300;400;500;700&family=Varela+Round&display=swap" rel="stylesheet">
+</head>
+<body id="container">
+    <header>
+        <div id="topofheader">
+            <div id="EasyBayLogo">
+                <img src="./leaf.png" alt="EasyBay" id="easybayleaf">
+                <h1 id="eblogowords">EasyBay</h1>
+            </div>
+                <form id="searchbar">
+                    <input type="text" name="text" class="search" placeholder="Search for anything">
+                </form>
+                <a href="#" id="signin">Sign In</a>
+                <img src="./cart-dark.png" alt="Cart Icon" id="cartpic" onclick="alertuser()">
+        </div>
+        <div id="bottomofheader">
+            <a href="#" class="plantnamesheader">Aeonium</a>
+            <a href="#" class="plantnamesheader">Andormischus</a>
+            <a href="#" class="plantnamesheader">Agave</a>
+            <a href="#" class="plantnamesheader">Aloe</a>
+            <a href="#" class="plantnamesheader">Anacampseros</a>
+            <a href="#" class="plantnamesheader">Aristaloe</a>
+            <a href="#" class="plantnamesheader">More...</a>
+        </div>
+    </header>
+    <main>
+        <h1 id="sourceheader">Your Source for Serious Succulent Specialties</h1>
+        <div id="topofmain">
+            <div id="discoverpicrow">
+                <div id="bluediscoverbox">
+                    <p id="blueboxpar">
+                        Discover succulent varieties one pot or rack at a time!
+                    </p>
+                    <div id="discoverandarrow">
+                        <a href="#" id="disclink">Discover</a>
+                        <a href=""><img src="./arrow-light.png" alt="Light Arrow"></a>
+                    </div>
+                </div>
+                <img src="./succulents-1.jpg" alt="Arranged Succulents" id="discrowpic" onmouseover="onImg.call(this)" onmouseout="outImg.call(this)">
+            </div>
+            <div id="soothingaloecolumn">
+                <img src="./aloe-m.jpg" alt="Aloe Photo" id="lightbluepic">
+                <div id="soothaloebox">
+                    <a href="#" id="soothingaloelink">Soothing aloe</a>
+                    <a href=""><img src="./arrow-light.png" alt="Light Arrow" id="aloearrow"></a>
+                </div>
+            </div>
+        </div>
+        <div class="bottomofmainrow">
+            <div class="plantcolumn">
+                <img src="./aeonium-s.jpg" alt="Aeonium" class="plantpic">
+                <a href="#" class="bottomplantname">Aeonium</a>
+            </div>
+            <div class="plantcolumn">
+                <img src="./aloe-s.jpg" alt="Aloe"class="plantpic">
+                <a href="#" class="bottomplantname">Aloe</a>
+            </div>
+            <div class="plantcolumn">
+                <img src="./cactus-s.jpg" alt="Cactus"class="plantpic">
+                <a href="#" class="bottomplantname">Cactus</a>
+            </div>
+            <div class="plantcolumn">
+                <img src="./echeveria-s.jpg" alt="Echeveria"class="plantpic">
+                <a href="#" class="bottomplantname">Echeveria</a>
+            </div>
+            <div class="plantcolumn">
+                <img src="./sedum-s.jpg" alt="sedum-s"class="plantpic">
+                <a href="#" class="bottomplantname">Sedum</a>
+            </div>
+            <div class="plantcolumn">
+                <img src="./sempervivum-s.jpg" alt="Sempervivum"class="plantpic">
+                <a href="#" class="bottomplantname">Sempervivum</a>
+            </div>
+        </div>
+    </main>
+    <footer id="hide">
+        <img src="./alert-dark.png" alt="Alert Symbol" id="alertpic">
+        <p>
+            This site makes use of third-party cookies, by clicking "I accept" you agree to the terms outlined in our 
+            <a href="#" id="cookie">cookie policy.</a>
+        </p>
+        <button onclick="hideme()">I accept</button>
+    </footer>
+    <script src="BeltExam1.js"></script>
+</body>
+</html>

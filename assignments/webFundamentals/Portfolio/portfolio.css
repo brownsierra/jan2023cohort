@@ -1,0 +1,147 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+#container {
+    width: 70%;
+    font-family: 'PT Sans Caption', sans-serif;
+    margin: auto;
+    background: rgb(1,0,23);
+    background: linear-gradient(118deg, rgba(1,0,23,1) 0%, rgba(105,81,124,1) 35%, rgba(153,120,153,1) 100%);
+}
+header {
+    display: flex;
+    background-color: white;
+    margin: 0;
+    flex-direction: row;
+    padding: 15px;
+    justify-content: space-between;
+    align-items: center;
+}
+#mainsection1 {
+    display: flex;
+    align-items: center;
+}
+#jayne {
+    width: 500px;
+    margin: 30px;
+    border: 6px solid rgb(170, 169, 169);
+}
+#about{
+    display: flex;
+    background-color: #848998;
+    padding: 5px;
+    color: white;
+    flex-direction: column;
+    width: 45%;
+}
+#aboutmepars {
+    background-color: rgb(216, 214, 214);
+    color: black;
+    padding: 10px;
+    padding-bottom: 40px;
+}
+#aboutp2 {
+    margin-bottom: 10px;
+}
+.aboutp {
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+#contread {
+    color: black;
+}
+main {
+    display: flex;
+    margin: 0;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.column {
+    display: flex;    
+    flex-direction: column;
+    width: 30%;
+}
+.columnhead {
+    color: white;
+    background-color: #848998;
+    padding: 10px;
+}
+.techimagesandbutton {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(216, 214, 214);
+    padding: 10px;
+    height: 170px;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.techimages {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+footer {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    /* align-items: center; */
+    margin-top: 15px;
+
+}
+#contactrow {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+#contactinfo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.contactpic {
+    width: 25px;
+    height: 30%;
+    margin: auto;
+}
+.contact {
+    display: flex;
+    flex-direction: row;
+    /* align-items: center; */
+    /* justify-content: space-around; */
+}
+.columnpar {
+    background-color: rgb(216, 214, 214);
+    font-size: 80%;
+    padding: 15px;
+    height: 250px;
+}
+.tech {
+    background-color: #848998;
+    color: white;
+    padding: 10px;
+}
+.pic {
+    width: 15%;
+    height: 35%;
+    margin: 5px;
+}
+button {
+    background-color: rgb(12, 109, 53);
+    color: white;
+    width: 50%;
+    height: 40px;
+    border-radius: 10px;
+    font-weight: bold;
+    box-shadow: 3px 3px rgb(0, 0, 0);
+}
+.linkss {
+    color: black;
+    margin-left: 5px;
+    margin-right: 10px;
+}

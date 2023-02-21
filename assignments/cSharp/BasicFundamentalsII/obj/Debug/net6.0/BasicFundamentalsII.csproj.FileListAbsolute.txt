@@ -1,0 +1,15 @@
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\BasicFundamentalsII\bin\Debug\net6.0\BasicFundamentalsII.exe
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\BasicFundamentalsII\bin\Debug\net6.0\BasicFundamentalsII.deps.json
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\BasicFundamentalsII\bin\Debug\net6.0\BasicFundamentalsII.runtimeconfig.json
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\BasicFundamentalsII\bin\Debug\net6.0\BasicFundamentalsII.dll
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\BasicFundamentalsII\bin\Debug\net6.0\BasicFundamentalsII.pdb
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\BasicFundamentalsII\obj\Debug\net6.0\BasicFundamentalsII.csproj.AssemblyReference.cache
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\BasicFundamentalsII\obj\Debug\net6.0\BasicFundamentalsII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\BasicFundamentalsII\obj\Debug\net6.0\BasicFundamentalsII.AssemblyInfoInputs.cache
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\BasicFundamentalsII\obj\Debug\net6.0\BasicFundamentalsII.AssemblyInfo.cs
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\BasicFundamentalsII\obj\Debug\net6.0\BasicFundamentalsII.csproj.CoreCompileInputs.cache
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\BasicFundamentalsII\obj\Debug\net6.0\BasicFundamentalsII.dll
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\BasicFundamentalsII\obj\Debug\net6.0\refint\BasicFundamentalsII.dll
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\BasicFundamentalsII\obj\Debug\net6.0\BasicFundamentalsII.pdb
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\BasicFundamentalsII\obj\Debug\net6.0\BasicFundamentalsII.genruntimeconfig.cache
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\BasicFundamentalsII\obj\Debug\net6.0\ref\BasicFundamentalsII.dll

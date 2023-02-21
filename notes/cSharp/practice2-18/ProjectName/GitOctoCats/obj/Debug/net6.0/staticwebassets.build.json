@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "Ou2qR8JOH/u0IAR/mbfp/FmjvWCl4KSjSunXnkrsB2o=",
+  "Source": "GitOctoCats",
+  "BasePath": "_content/GitOctoCats",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GitOctoCats\\wwwroot",
+      "Source": "GitOctoCats",
+      "ContentRoot": "C:\\Users\\brown\\OneDrive\\Desktop\\CodingDojo\\jan2023cohort\\notes\\cSharp\\practice2-18\\ProjectName\\GitOctoCats\\wwwroot\\",
+      "BasePath": "_content/GitOctoCats",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\brown\\OneDrive\\Desktop\\CodingDojo\\jan2023cohort\\notes\\cSharp\\practice2-18\\ProjectName\\GitOctoCats\\wwwroot\\css\\style.css",
+      "SourceId": "GitOctoCats",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\brown\\OneDrive\\Desktop\\CodingDojo\\jan2023cohort\\notes\\cSharp\\practice2-18\\ProjectName\\GitOctoCats\\wwwroot\\",
+      "BasePath": "_content/GitOctoCats",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\brown\\OneDrive\\Desktop\\CodingDojo\\jan2023cohort\\notes\\cSharp\\practice2-18\\ProjectName\\GitOctoCats\\wwwroot\\images\\wwwroot.zip",
+      "SourceId": "GitOctoCats",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\brown\\OneDrive\\Desktop\\CodingDojo\\jan2023cohort\\notes\\cSharp\\practice2-18\\ProjectName\\GitOctoCats\\wwwroot\\",
+      "BasePath": "_content/GitOctoCats",
+      "RelativePath": "images/wwwroot.zip",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\wwwroot.zip"
+    }
+  ]
+}

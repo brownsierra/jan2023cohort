@@ -1,0 +1,201 @@
+body {
+    width: 970px;
+    margin: auto;
+    background-color: /* Created with https://www.css-gradient.com */
+    background: #245076;
+    background: -webkit-linear-gradient(top, #245076, #4D5A67);
+    background: -moz-linear-gradient(top, #245076, #4D5A67);
+    background: linear-gradient(to bottom, #245076, #4D5A67);;
+    font-family: 'Roboto', sans-serif;
+}
+/*HEADER*/
+header {
+    display: flex;
+    flex-direction: column;
+}
+#topofheader {
+    display: flex;
+    flex-direction: row;
+    height: 150px;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+#pythonlogo {
+    width: 40%;
+    height: 70%;
+    margin-top: 20px;
+}
+#textsz{
+    color: white;
+    margin-left: 35px;
+}
+.normandlarge {
+    color: rgb(212, 186, 35);
+}
+#line {
+    color: rgb(12, 12, 83);
+}
+.searchboxandbutton {
+    background-color: rgb(85, 78, 78);
+    display: flex;
+    height: 40%;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    width: 110%;
+    box-shadow: 3px 3px rgb(56, 54, 54);
+}
+.searchbar {
+    width: 50%;
+    height: 50%;
+    font-size: 60%;
+    text-align: center;
+
+}
+.go {
+    background-color: rgb(50, 104, 250);
+    color: white;
+    border: 1px solid white;
+    height: 52%;
+    width: 12%;
+    border-radius: 5px;
+    margin-left: 5px;
+    font-size: 60%;
+    box-shadow: -3px 3px rgb(56, 55, 55);
+}
+#bottomofheader {
+    background-color: rgb(35, 126, 201);
+    margin: auto;
+    display: flex;
+    height: 50px;
+    justify-content: space-evenly;
+    align-items: center;
+    box-shadow: 3px 3px rgb(46, 43, 43);
+    border-radius: 5px;
+    width: 105%;
+    margin-bottom: 10px;
+}
+.menulinks {
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+}
+
+/*MAIN*/
+/*SIDE OF MAIN*/
+#topofmain {
+    display: flex;
+    flex-direction: row;
+}
+#sideoftopmain {
+    display: flex;
+    flex-direction: column;
+    justify-conten1t: flex-start;
+    align-items: center;
+    width: 220px;
+    /* display: inline-block; */
+    margin-top: 40px;
+    font-size: 19px;
+    color: rgb(216, 166, 39);
+}
+.sidemenu {
+    color: white;
+}
+.sidelink {
+    /* display: flex; */
+    margin-top: 15px;
+}
+
+
+/*CENTER MAIN*/
+.topcenteredmain {
+    display: flex;
+    flex-direction: column;
+    width: 610px;
+    align-items: center;
+    margin-left: 70px;
+}
+#firstp {
+    color: white;
+    text-align: center;
+    width: 125%;
+    font-size: 18px;
+}
+
+.yellowtext {
+    font-style: italic;
+    color: rgb(223, 195, 38);
+    margin-top: 2px;
+    font-weight: lighter;
+}
+#zen {
+    font-style: italic;
+    color: white;
+    margin-top: 5px;
+    font-weight: lighter;
+}
+
+/*BOTTOM OF MAIN*/
+#bottomofmain {
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    width: 110%;
+}
+hr {
+    width: 90%;
+    height: 4px;
+    background-color: rgb(83, 143, 255);
+    margin-top: 15px;
+}
+.bottominfo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 0px;
+}
+.bottomp {
+    font-size: 18px;
+    margin: 50px;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.bottomlist {
+    text-align: center;
+}
+.bottomheader {
+    margin-top: 0;
+}
+.bottomlistitems {
+    color: rgb(29, 143, 219);
+    text-decoration: none;
+}
+#randomlight {
+    color: rgb(29, 143, 219);
+}
+
+/*FOOTER*/
+footer {
+    display: flex;
+    flex-direction: column;
+}
+.footermenu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 60px;
+}
+.footeritems {
+    color: rgb(255, 244, 244);
+    text-decoration: none;
+    font-weight: lighter;
+    font-size: 22px;
+}
+.copyright {
+    color: rgb(255, 244, 244);
+    font-size: 14px;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}

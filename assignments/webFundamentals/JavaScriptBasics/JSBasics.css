@@ -1,0 +1,64 @@
+#container {
+    width: 970px;
+    background-color: rgb(27, 52, 93);
+    padding: 10px;
+p {
+
+}
+
+}
+h1 {
+    display: flex;
+    background-color: rgb(228, 43, 49);
+    color: white;
+    height: 90px;
+    align-items: center;
+    padding: 0 20px;
+    font-size: 30px;
+    border-radius: 15px;
+    /* margin: 15px; */
+}
+#body {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+#nav {
+    display: flex;
+    background-color: rgb(42, 125, 140);
+    display: inline-block;
+    border-radius: 10px;
+
+
+}
+#main {
+    background-color: rgb(14, 24, 34);
+    font-size: 13px;
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+    margin-right: 3px;
+    margin-left: 18px;
+    vertical-align: top;
+
+}
+a {
+    color: rgb(103, 218, 215);
+}
+ul, li {
+    color: white;
+    font-size: 10px;
+    padding-left: 12px;
+    padding-right: 12px;
+
+}
+footer {
+    background-color: rgb(93, 102, 115);
+    border-radius: 25px;
+    padding: 10px;
+    margin-top:25px;
+    color: white;
+}
+.purple {
+    color: rgb(161, 148, 221);
+}

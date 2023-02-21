@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "aEMGJWW4SDnG5b3Iu9SeF1oTvzv2BYMnOMl1xbgrHzM=",
+  "Source": "NewBasicWeb",
+  "BasePath": "_content/NewBasicWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NewBasicWeb\\wwwroot",
+      "Source": "NewBasicWeb",
+      "ContentRoot": "C:\\Users\\brown\\OneDrive\\Desktop\\CodingDojo\\jan2023cohort\\notes\\cSharp\\practice2-18\\NewBasicWEB\\wwwroot\\",
+      "BasePath": "_content/NewBasicWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\brown\\OneDrive\\Desktop\\CodingDojo\\jan2023cohort\\notes\\cSharp\\practice2-18\\NewBasicWEB\\wwwroot\\css\\style.css",
+      "SourceId": "NewBasicWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\brown\\OneDrive\\Desktop\\CodingDojo\\jan2023cohort\\notes\\cSharp\\practice2-18\\NewBasicWEB\\wwwroot\\",
+      "BasePath": "_content/NewBasicWeb",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}

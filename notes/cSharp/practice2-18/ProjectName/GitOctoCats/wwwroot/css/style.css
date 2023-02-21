@@ -1,0 +1,8 @@
+h1 {
+    color: palevioletred;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

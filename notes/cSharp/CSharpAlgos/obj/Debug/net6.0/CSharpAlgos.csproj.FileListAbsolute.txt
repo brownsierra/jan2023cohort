@@ -1,0 +1,15 @@
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\CSharpAlgos\bin\Debug\net6.0\CSharpAlgos.exe
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\CSharpAlgos\bin\Debug\net6.0\CSharpAlgos.deps.json
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\CSharpAlgos\bin\Debug\net6.0\CSharpAlgos.runtimeconfig.json
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\CSharpAlgos\bin\Debug\net6.0\CSharpAlgos.dll
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\CSharpAlgos\bin\Debug\net6.0\CSharpAlgos.pdb
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\CSharpAlgos\obj\Debug\net6.0\CSharpAlgos.csproj.AssemblyReference.cache
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\CSharpAlgos\obj\Debug\net6.0\CSharpAlgos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\CSharpAlgos\obj\Debug\net6.0\CSharpAlgos.AssemblyInfoInputs.cache
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\CSharpAlgos\obj\Debug\net6.0\CSharpAlgos.AssemblyInfo.cs
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\CSharpAlgos\obj\Debug\net6.0\CSharpAlgos.csproj.CoreCompileInputs.cache
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\CSharpAlgos\obj\Debug\net6.0\CSharpAlgos.dll
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\CSharpAlgos\obj\Debug\net6.0\refint\CSharpAlgos.dll
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\CSharpAlgos\obj\Debug\net6.0\CSharpAlgos.pdb
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\CSharpAlgos\obj\Debug\net6.0\CSharpAlgos.genruntimeconfig.cache
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\CSharpAlgos\obj\Debug\net6.0\ref\CSharpAlgos.dll

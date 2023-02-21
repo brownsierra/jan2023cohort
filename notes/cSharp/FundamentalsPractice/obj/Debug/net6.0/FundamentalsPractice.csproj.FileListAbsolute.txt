@@ -1,0 +1,15 @@
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\FundamentalsPractice\bin\Debug\net6.0\FundamentalsPractice.exe
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\FundamentalsPractice\bin\Debug\net6.0\FundamentalsPractice.deps.json
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\FundamentalsPractice\bin\Debug\net6.0\FundamentalsPractice.runtimeconfig.json
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\FundamentalsPractice\bin\Debug\net6.0\FundamentalsPractice.dll
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\FundamentalsPractice\bin\Debug\net6.0\FundamentalsPractice.pdb
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\FundamentalsPractice\obj\Debug\net6.0\FundamentalsPractice.csproj.AssemblyReference.cache
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\FundamentalsPractice\obj\Debug\net6.0\FundamentalsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\FundamentalsPractice\obj\Debug\net6.0\FundamentalsPractice.AssemblyInfoInputs.cache
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\FundamentalsPractice\obj\Debug\net6.0\FundamentalsPractice.AssemblyInfo.cs
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\FundamentalsPractice\obj\Debug\net6.0\FundamentalsPractice.csproj.CoreCompileInputs.cache
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\FundamentalsPractice\obj\Debug\net6.0\FundamentalsPractice.dll
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\FundamentalsPractice\obj\Debug\net6.0\refint\FundamentalsPractice.dll
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\FundamentalsPractice\obj\Debug\net6.0\FundamentalsPractice.pdb
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\FundamentalsPractice\obj\Debug\net6.0\FundamentalsPractice.genruntimeconfig.cache
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\notes\cSharp\FundamentalsPractice\obj\Debug\net6.0\ref\FundamentalsPractice.dll

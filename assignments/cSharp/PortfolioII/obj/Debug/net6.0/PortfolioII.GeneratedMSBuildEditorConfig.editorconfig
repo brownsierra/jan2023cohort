@@ -8,21 +8,21 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PortfolioII
 build_property.RootNamespace = PortfolioII
-build_property.ProjectDir = C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\PortfolioII\
+build_property.ProjectDir = c:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\PortfolioII\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\PortfolioII
+build_property.MSBuildProjectDirectory = c:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\PortfolioII
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/brown/OneDrive/Desktop/CodingDojo/jan2023cohort/assignments/cSharp/PortfolioII/Views/Contact/Contact.cshtml]
+[c:/Users/brown/OneDrive/Desktop/CodingDojo/jan2023cohort/assignments/cSharp/PortfolioII/Views/Contact/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/brown/OneDrive/Desktop/CodingDojo/jan2023cohort/assignments/cSharp/PortfolioII/Views/Home/index.cshtml]
+[c:/Users/brown/OneDrive/Desktop/CodingDojo/jan2023cohort/assignments/cSharp/PortfolioII/Views/Home/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/brown/OneDrive/Desktop/CodingDojo/jan2023cohort/assignments/cSharp/PortfolioII/Views/Projects/Projects.cshtml]
+[c:/Users/brown/OneDrive/Desktop/CodingDojo/jan2023cohort/assignments/cSharp/PortfolioII/Views/Projects/Projects.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcUHJvamVjdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
