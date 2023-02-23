@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "KW1a1k+koTFKLQUOhgkah77rxrXdaXvuW170Z+cLKxo=",
+  "Source": "TimeDisplay",
+  "BasePath": "_content/TimeDisplay",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TimeDisplay\\wwwroot",
+      "Source": "TimeDisplay",
+      "ContentRoot": "C:\\Users\\brown\\OneDrive\\Desktop\\CodingDojo\\jan2023cohort\\assignments\\cSharp\\TimeDisplay\\wwwroot\\",
+      "BasePath": "_content/TimeDisplay",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\brown\\OneDrive\\Desktop\\CodingDojo\\jan2023cohort\\assignments\\cSharp\\TimeDisplay\\wwwroot\\css\\style.css",
+      "SourceId": "TimeDisplay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\brown\\OneDrive\\Desktop\\CodingDojo\\jan2023cohort\\assignments\\cSharp\\TimeDisplay\\wwwroot\\",
+      "BasePath": "_content/TimeDisplay",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}
