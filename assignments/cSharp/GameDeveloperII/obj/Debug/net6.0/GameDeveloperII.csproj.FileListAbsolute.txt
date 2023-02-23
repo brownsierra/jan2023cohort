@@ -1,0 +1,15 @@
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\GameDeveloperII\obj\Debug\net6.0\GameDeveloperII.csproj.AssemblyReference.cache
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\GameDeveloperII\obj\Debug\net6.0\GameDeveloperII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\GameDeveloperII\obj\Debug\net6.0\GameDeveloperII.AssemblyInfoInputs.cache
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\GameDeveloperII\obj\Debug\net6.0\GameDeveloperII.AssemblyInfo.cs
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\GameDeveloperII\obj\Debug\net6.0\GameDeveloperII.csproj.CoreCompileInputs.cache
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\GameDeveloperII\bin\Debug\net6.0\GameDeveloperII.exe
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\GameDeveloperII\bin\Debug\net6.0\GameDeveloperII.deps.json
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\GameDeveloperII\bin\Debug\net6.0\GameDeveloperII.runtimeconfig.json
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\GameDeveloperII\bin\Debug\net6.0\GameDeveloperII.dll
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\GameDeveloperII\bin\Debug\net6.0\GameDeveloperII.pdb
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\GameDeveloperII\obj\Debug\net6.0\GameDeveloperII.dll
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\GameDeveloperII\obj\Debug\net6.0\refint\GameDeveloperII.dll
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\GameDeveloperII\obj\Debug\net6.0\GameDeveloperII.pdb
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\GameDeveloperII\obj\Debug\net6.0\GameDeveloperII.genruntimeconfig.cache
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\GameDeveloperII\obj\Debug\net6.0\ref\GameDeveloperII.dll
