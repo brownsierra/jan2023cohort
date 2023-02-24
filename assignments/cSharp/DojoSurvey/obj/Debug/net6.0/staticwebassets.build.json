@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "YPmM3asAF+Jt1pYZx3wE0RvdjlFAL0xgTOxN7k3dxJw=",
+  "Source": "DojoSurvey",
+  "BasePath": "_content/DojoSurvey",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DojoSurvey\\wwwroot",
+      "Source": "DojoSurvey",
+      "ContentRoot": "C:\\Users\\brown\\OneDrive\\Desktop\\CodingDojo\\jan2023cohort\\assignments\\cSharp\\DojoSurvey\\wwwroot\\",
+      "BasePath": "_content/DojoSurvey",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\brown\\OneDrive\\Desktop\\CodingDojo\\jan2023cohort\\assignments\\cSharp\\DojoSurvey\\wwwroot\\css\\style.css",
+      "SourceId": "DojoSurvey",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\brown\\OneDrive\\Desktop\\CodingDojo\\jan2023cohort\\assignments\\cSharp\\DojoSurvey\\wwwroot\\",
+      "BasePath": "_content/DojoSurvey",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}
