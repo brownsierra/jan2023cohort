@@ -1,0 +1,8 @@
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\DateValidator\obj\Debug\net6.0\DateValidator.csproj.AssemblyReference.cache
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\DateValidator\obj\Debug\net6.0\DateValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\DateValidator\obj\Debug\net6.0\DateValidator.AssemblyInfoInputs.cache
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\DateValidator\obj\Debug\net6.0\DateValidator.AssemblyInfo.cs
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\DateValidator\obj\Debug\net6.0\DateValidator.csproj.CoreCompileInputs.cache
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\DateValidator\obj\Debug\net6.0\DateValidator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\DateValidator\obj\Debug\net6.0\DateValidator.RazorAssemblyInfo.cache
+C:\Users\brown\OneDrive\Desktop\CodingDojo\jan2023cohort\assignments\cSharp\DateValidator\obj\Debug\net6.0\DateValidator.RazorAssemblyInfo.cs
